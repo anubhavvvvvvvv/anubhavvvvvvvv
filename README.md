@@ -398,59 +398,93 @@ Modern SQL Data Warehouse implementing ETL pipelines, star schema modelling and 
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=anubhavvvvvvvv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavvvvvvvv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavvvvvvvv&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=anubhavvvvvvvv&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" width="100%"/>
-</td>
-</tr>
-</table>
+<p align="center">
 
-<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anubhavvvvvvvv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavvvvvvvv&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavvvvvvvv&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+</p>
 
-<img src="https://raw.githubusercontent.com/anubhavvvvvvvv/anubhavvvvvvvv/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<p align="center">
 
-</div>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=anubhavvvvvvvv&theme=tokyonight&hide_border=true"/>
 
-<br/>
+</p>
 
-## 📬 Contact
+<p align="center">
 
-<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavvvvvvvv&theme=tokyo-night&hide_border=true"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-chauhan-283052266/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://anubhav-chauhan-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhav.chauhan.ug23@nsut.ac.in)
-[![Resume](https://img.shields.io/badge/Resume-3B82F6?style=for-the-badge&logo=readdotcv&logoColor=white)](https://anubhav-chauhan-portfolio.vercel.app/resume/Anubhav_Chauhan_Resume.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anubhavvvvvvvv)
-[![LeetCode](https://img.shields.io/badge/LeetCode-64748B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aaanubhavv/)
+</p>
 
-</div>
+<p align="center">
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=anubhavvvvvvvv&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-<div align="center">
+</p>
 
-_Thanks for stopping by — always open to a conversation about data._
+---
 
-</div>
-#   a n u b h a v v v v v v v v 
- 
- 
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="mailto:anubhav.chauhan.ug23@nsut.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anubhav-chauhan-283052266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anubhavvvvvvvv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://anubhav-chauhan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/aaanubhavv/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/anubhavvvvvvvv/anubhavvvvvvvv/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
+
+---
+
+# 💡 Quote I Live By
+
+<p align="center">
+
+> **"Without data, you're just another person with an opinion."**  
+> — W. Edwards Deming
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me or starring one of my repositories.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=120&section=footer"/>
+
+</p>
