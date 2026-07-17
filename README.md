@@ -1,28 +1,34 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Banner"/>
+</p>
 
-<img src="./assets/banner.jpg" alt="Banner" width="100%" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=450&lines=Hi.;Namaste.;Be+Kind." alt="Typing SVG"/>
+  </a>
+</p>
 
-<br/>
+<h3 align="center">
+Data & Business Intelligence Analyst
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=400&repeat=true&lines=Hi.;Namaste.;Be+Kind.)](https://git.io/typing-svg)
+<p align="center">
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=anubhavvvvvvvv&style=flat-square&color=38BDF8" />
 
-### Data & Business Intelligence Analyst
+<img src="https://img.shields.io/github/followers/anubhavvvvvvvv?style=flat-square&color=8B5CF6" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=anubhavvvvvvvv&color=38BDF8&style=flat&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/anubhavvvvvvvv?label=Followers&style=flat&color=8B5CF6)
-![Stars](https://img.shields.io/github/stars/anubhavvvvvvvv?label=Stars&style=flat&color=3B82F6)
+<img src="https://img.shields.io/github/stars/anubhavvvvvvvv?style=flat-square&color=3B82F6" />
 
-</div>
+</p>
 
-<br/>
+<br>
 
 ## 📌 About Me
 
 I'm a Data Analyst in the making — currently a third-year B.Tech (Math & Computing) student at **Netaji Subhas University of Technology**, focused on turning raw, messy business data into decisions people can actually act on.
 
-My work sits at the intersection of **SQL, Python, and BI tooling** — cleaning and modeling data, building executive-ready dashboards, and translating numbers into a story a stakeholder can use. I care less about "what happened" and more about *why it happened and what to do next*.
+My work sits at the intersection of **SQL, Python, and BI tooling** — cleaning and modeling data, building executive-ready dashboards, and translating numbers into a story a stakeholder can use. I care less about "what happened" and more about _why it happened and what to do next_.
 
 **Career Objective:** Seeking a Data Analyst / Business Intelligence Analyst role where I can apply dashboarding, KPI monitoring, and data storytelling to real business problems — with a long-term path toward Product Analytics or Analytics Engineering.
 
@@ -151,6 +157,7 @@ Data Analyst · BI Analyst · Product Analyst internships — open to discussing
 <td width="50%" valign="top">
 
 ### 📊 Tableau Sales Performance Dashboard
+
 **Business Problem:** Revenue and customer performance data were scattered, delaying decisions on budget allocation and account retention.
 **Tools:** MySQL · Star Schema Modeling · Tableau
 **Key Insight:** One account drives ~42% of ₹986M+ total revenue — a major concentration risk.
@@ -161,6 +168,7 @@ Data Analyst · BI Analyst · Product Analyst internships — open to discussing
 <td width="50%" valign="top">
 
 ### 🔎 Vendor Sales Performance Analysis
+
 **Business Problem:** Procurement and sales data lived in 4 disconnected tables, hiding which vendors were actually profitable.
 **Tools:** SQL (CTEs, Window Functions) · Python · SciPy
 **Key Insight:** Uncovered $4.35M in loss-making sales and $282K in dead stock across 520 brands.
@@ -173,6 +181,7 @@ Data Analyst · BI Analyst · Product Analyst internships — open to discussing
 <td width="50%" valign="top">
 
 ### 🛒 Blinkit Trust+
+
 **Business Problem:** Users abandoned checkouts after discovering surprise fees, hurting trust and conversion.
 **Tools:** User Research · Competitive Analysis · Prototyping
 **Key Insight:** Users don't mind fees — they mind not knowing why. Designed a transparency-first checkout.
@@ -184,6 +193,7 @@ Data Analyst · BI Analyst · Product Analyst internships — open to discussing
 <td width="50%" valign="top">
 
 ### 🗄️ SQL Data Warehouse & Analytics
+
 **Business Problem:** Raw transactional data needed reusable, queryable reports across six business use cases.
 **Tools:** SQL Server · SSMS · Views & Window Functions
 **Key Insight:** Built reusable customer and product reporting views instead of one-off queries.
@@ -246,8 +256,9 @@ Data Analyst · BI Analyst · Product Analyst internships — open to discussing
 
 <div align="center">
 
-*Thanks for stopping by — always open to a conversation about data.*
+_Thanks for stopping by — always open to a conversation about data._
 
 </div>
-#   a n u b h a v v v v v v v v  
+#   a n u b h a v v v v v v v v 
+ 
  
