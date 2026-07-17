@@ -118,8 +118,8 @@ My long-term goal is to build scalable analytics solutions that help organizatio
 ## 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998">
 </p>
 
 ---
@@ -127,9 +127,9 @@ My long-term goal is to build scalable analytics solutions that help organizatio
 ## 📊 Data Analysis
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-38BDF8?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-3B82F6?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/SciPy-8B5CF6?style=for-the-badge&logo=scipy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
 </p>
 
 ---
@@ -137,10 +137,10 @@ My long-term goal is to build scalable analytics solutions that help organizatio
 ## 📈 Data Visualization
 
 <p>
-<img src="https://img.shields.io/badge/Tableau-38BDF8?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Plotly-8B5CF6?style=for-the-badge&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-3B82F6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-38BDF8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 </p>
 
 ---
@@ -148,8 +148,8 @@ My long-term goal is to build scalable analytics solutions that help organizatio
 ## 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQL_Server-8B5CF6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
 ---
@@ -157,8 +157,8 @@ My long-term goal is to build scalable analytics solutions that help organizatio
 ## ⚙️ Version Control
 
 <p>
-<img src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
@@ -166,17 +166,30 @@ My long-term goal is to build scalable analytics solutions that help organizatio
 # 🌱 Currently Learning
 
 <p>
-<img src="https://img.shields.io/badge/Power_BI-64748B?style=for-the-badge&logo=powerbi&logoColor=white">
-<img src="https://img.shields.io/badge/R-64748B?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Google_BigQuery-64748B?style=for-the-badge&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Looker_Studio-64748B?style=for-the-badge&logo=looker&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_Data_Studio-64748B?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Power_Query-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Pivot_Tables-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/XLOOKUP-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Sheets-64748B?style=for-the-badge&logo=googlesheets&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white">
+
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white">
+
+<img src="https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/XLOOKUP-21A366?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+
 </p>
+
+---
 
 ---
 
