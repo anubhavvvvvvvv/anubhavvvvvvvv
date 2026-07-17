@@ -62,187 +62,341 @@ Hi 👋 I'm Anubhav Chauhan
 
 ---
 
-## 📌 About Me
+# 💫 About Me
 
-I'm a Data Analyst in the making — currently a third-year B.Tech (Math & Computing) student at **Netaji Subhas University of Technology**, focused on turning raw, messy business data into decisions people can actually act on.
+<img align="right" alt="Data Analytics" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VxM3NlcWVpbjI4Mmd5c2xjc2NrYmJtNnNudjNwd2Q4eTR6YmYzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
 
-My work sits at the intersection of **SQL, Python, and BI tooling** — cleaning and modeling data, building executive-ready dashboards, and translating numbers into a story a stakeholder can use. I care less about "what happened" and more about _why it happened and what to do next_.
+🎓 **B.Tech in Mathematics & Computing**  
+📍 Netaji Subhas University of Technology (NSUT), Delhi
 
-**Career Objective:** Seeking a Data Analyst / Business Intelligence Analyst role where I can apply dashboarding, KPI monitoring, and data storytelling to real business problems — with a long-term path toward Product Analytics or Analytics Engineering.
+I'm a passionate **Data Analyst** who enjoys transforming raw data into actionable business insights.
 
-<br/>
+My work focuses on combining **SQL, Python, Tableau, and Business Intelligence** to solve real-world business problems through dashboards, analytics, automation, and storytelling.
 
-## 🎯 Current Focus
+I enjoy working across the complete analytics workflow:
+
+- 📥 Collecting & Cleaning Data
+- 🛠️ Data Transformation
+- 📊 Dashboard Development
+- 📈 KPI Monitoring
+- 🔍 Business Analysis
+- 💡 Data Storytelling
+- 🤖 Analytics Automation
+
+I believe that **good dashboards don't just show numbers—they help people make better decisions.**
+
+---
+
+### 🌱 Currently Learning
+
+- Microsoft Power BI
+- Advanced SQL Optimization
+- R for Analytics
+- Google BigQuery
+- Looker Studio
+- Excel Power Query
+- Data Warehousing
+- Azure Data Studio
+
+---
+
+### 🎯 Career Objective
+
+I'm actively building projects that demonstrate practical business analytics skills and preparing for roles such as:
+
+- 📊 Data Analyst
+- 📈 Business Intelligence Analyst
+- 📉 Product Analyst
+- 📋 Business Analyst
+
+My long-term goal is to build scalable analytics solutions that help organizations make data-driven decisions.
+
+---
+
+# 🧰 Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+---
+
+## 📊 Data Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-38BDF8?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-3B82F6?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-8B5CF6?style=for-the-badge&logo=scipy&logoColor=white">
+</p>
+
+---
+
+## 📈 Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Tableau-38BDF8?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-8B5CF6?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-3B82F6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-38BDF8?style=for-the-badge">
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-8B5CF6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+---
+
+## ⚙️ Version Control
+
+<p>
+<img src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-64748B?style=for-the-badge&logo=powerbi&logoColor=white">
+<img src="https://img.shields.io/badge/R-64748B?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Google_BigQuery-64748B?style=for-the-badge&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/Looker_Studio-64748B?style=for-the-badge&logo=looker&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_Data_Studio-64748B?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Query-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Pivot_Tables-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/XLOOKUP-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Sheets-64748B?style=for-the-badge&logo=googlesheets&logoColor=white">
+</p>
+
+---
+
+# 📊 Analytics Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📊 Currently Building**
-Dashboards and SQL pipelines on real-world transactional datasets — moving beyond guided projects toward independently-scoped analysis.
+### 📈 Data Analysis
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Statistical Analysis
+- KPI Monitoring
+- Trend Analysis
+- Business Reporting
+- Customer Segmentation
+- Sales & Revenue Analysis
 
 </td>
+
 <td width="50%" valign="top">
 
-**📈 Currently Learning**
-Power BI, R, and advanced Excel (Power Query, Pivot Tables) — expanding my BI toolkit beyond Tableau.
+### 📊 Dashboard & BI
+
+- Interactive Dashboards
+- Executive KPI Dashboards
+- Business Intelligence
+- Data Storytelling
+- Performance Tracking
+- Data Visualization
+- Drill-down Reports
+- Decision Support Analytics
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**🎯 2026 Goals**
-Land a Data Analyst internship, ship 2–3 more end-to-end BI case studies, and go deeper on statistical rigor (hypothesis testing, forecasting).
+### 🗄️ SQL & Databases
+
+- Complex SQL Queries
+- Window Functions
+- CTEs
+- Joins
+- Views
+- Aggregate Functions
+- Query Optimization
+- Relational Database Design
 
 </td>
+
 <td width="50%" valign="top">
 
-**🚀 Open to Opportunities**
-Data Analyst · BI Analyst · Product Analyst internships — open to discussing full-time roles for 2027.
+### 🐍 Python Analytics
+
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Automation Scripts
+- Data Processing Pipelines
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🧰 Tech Stack
+### 💼 Business Domains
 
-<details open>
-<summary><b>✅ Core Stack — Actively Used</b></summary>
-<br/>
+<p>
 
-**Languages**
+<img src="https://img.shields.io/badge/Sales%20Analytics-0EA5E9?style=for-the-badge">
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Business%20Intelligence-8B5CF6?style=for-the-badge">
 
-**Data Analysis**
+<img src="https://img.shields.io/badge/Product%20Analytics-2563EB?style=for-the-badge">
 
-![Pandas](https://img.shields.io/badge/Pandas-38BDF8?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-3B82F6?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8B5CF6?style=for-the-badge&logo=scipy&logoColor=white)
+<img src="https://img.shields.io/badge/Customer%20Analytics-06B6D4?style=for-the-badge">
 
-**Data Visualization**
+<img src="https://img.shields.io/badge/Reporting-0F766E?style=for-the-badge">
 
-![Tableau](https://img.shields.io/badge/Tableau-38BDF8?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3B82F6?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-8B5CF6?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-38BDF8?style=for-the-badge&logo=plotly&logoColor=white)
+<img src="https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge">
 
-**Databases**
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-8B5CF6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-**Version Control**
-
-![Git](https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📈 Currently Learning / Expanding Into</b></summary>
-<br/>
-
-![Power BI](https://img.shields.io/badge/Power_BI-64748B?style=for-the-badge&logo=powerbi&logoColor=white)
-![R](https://img.shields.io/badge/R-64748B?style=for-the-badge&logo=r&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-64748B?style=for-the-badge&logo=looker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-64748B?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-64748B?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-64748B?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Excel Power Query](https://img.shields.io/badge/Power_Query-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Excel Pivot Tables](https://img.shields.io/badge/Pivot_Tables-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![XLOOKUP](https://img.shields.io/badge/XLOOKUP-64748B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-64748B?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-</details>
-
-<br/>
-
-## 📊 Analytics Expertise
-
-**Applied in my projects**
-
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-38BDF8?style=flat-square)
-![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-3B82F6?style=flat-square)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=flat-square)
-![Trend Analysis](https://img.shields.io/badge/Trend_Analysis-38BDF8?style=flat-square)
-![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-3B82F6?style=flat-square)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-8B5CF6?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-38BDF8?style=flat-square)
-![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-3B82F6?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-8B5CF6?style=flat-square)
-
-**Building toward**
-
-![Forecasting](https://img.shields.io/badge/Forecasting-64748B?style=flat-square)
-![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-64748B?style=flat-square)
-![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-64748B?style=flat-square)
-![Churn Analysis](https://img.shields.io/badge/Churn_Analysis-64748B?style=flat-square)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-64748B?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-64748B?style=flat-square)
-![Reporting Automation](https://img.shields.io/badge/Reporting_Automation-64748B?style=flat-square)
-
-<br/>
-
-## 💼 Featured Projects
+# 💼 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 📊 Tableau Sales Performance Dashboard
+### 📊 Sales Performance Dashboard
 
-**Business Problem:** Revenue and customer performance data were scattered, delaying decisions on budget allocation and account retention.
-**Tools:** MySQL · Star Schema Modeling · Tableau
-**Key Insight:** One account drives ~42% of ₹986M+ total revenue — a major concentration risk.
+Interactive Tableau dashboard built to monitor sales KPIs, profitability, customer trends and regional performance.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/anubhavvvvvvvv/tableau-sales-performance-dashboard)
+**✨ Highlights**
+
+- Executive KPI Dashboard
+- Regional Performance Analysis
+- Profitability Insights
+- Interactive Filters
+- Customer Segmentation
+
+**🛠 Tech Stack**
+
+`Tableau` `SQL` `Excel`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_TABLEAU_PUBLIC_LINK">
+<img src="https://img.shields.io/badge/Live_Dashboard-06B6D4?style=for-the-badge&logo=tableau&logoColor=white">
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔎 Vendor Sales Performance Analysis
+### 🏢 Vendor Sales Performance Analysis
 
-**Business Problem:** Procurement and sales data lived in 4 disconnected tables, hiding which vendors were actually profitable.
-**Tools:** SQL (CTEs, Window Functions) · Python · SciPy
-**Key Insight:** Uncovered $4.35M in loss-making sales and $282K in dead stock across 520 brands.
+End-to-end SQL analytics project transforming raw sales data into actionable business insights.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/anubhavvvvvvvv/vendor-sales-performance-analysis)
+**✨ Highlights**
+
+- Customer Segmentation
+- Revenue Analysis
+- Time-Series Analysis
+- Window Functions
+- Business KPIs
+
+**🛠 Tech Stack**
+
+`SQL` `Python` `SQLite`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛒 Blinkit Trust+
 
-**Business Problem:** Users abandoned checkouts after discovering surprise fees, hurting trust and conversion.
-**Tools:** User Research · Competitive Analysis · Prototyping
-**Key Insight:** Users don't mind fees — they mind not knowing why. Designed a transparency-first checkout.
+Product Analytics case study redesigning Blinkit's checkout experience using user research and interactive prototyping.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/anubhavvvvvvvv/blinkit-trust-plus-case-study)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-3B82F6?style=flat-square&logo=vercel)](https://blinkit-trust-plus.vercel.app/)
+**✨ Highlights**
+
+- UX Research
+- Survey Analysis
+- User Interviews
+- Product Analytics
+- Interactive Prototype
+
+**🛠 Tech Stack**
+
+`React` `Vite` `Tailwind`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_VERCEL_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🗄️ SQL Data Warehouse & Analytics
+### 🏗 SQL Data Warehouse
 
-**Business Problem:** Raw transactional data needed reusable, queryable reports across six business use cases.
-**Tools:** SQL Server · SSMS · Views & Window Functions
-**Key Insight:** Built reusable customer and product reporting views instead of one-off queries.
+Modern SQL Data Warehouse implementing ETL pipelines, star schema modelling and analytical reporting.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/anubhavvvvvvvv/SQL-DATA-ANALYSIS-PROJECT)
+**✨ Highlights**
+
+- ETL Pipeline
+- Data Warehouse
+- Star Schema
+- Data Modeling
+- Analytical Reporting
+
+**🛠 Tech Stack**
+
+`SQL Server` `SQL`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
 </td>
+
 </tr>
+
 </table>
 
-<br/>
+---
 
 ## 📈 GitHub Analytics
 
