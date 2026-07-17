@@ -1,28 +1,66 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Banner"/>
+  <img src="./assets/banner.jpg" width="100%" alt="Banner">
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Anubhav Chauhan
+</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Analyst;Business+Intelligence+Analyst;SQL+%7C+Python+%7C+Tableau;Turning+Data+into+Business+Insights;Dashboard+Developer;Data+Storyteller" alt="Typing SVG">
+</a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=450&lines=Hi.;Namaste.;Be+Kind." alt="Typing SVG"/>
-  </a>
-</p>
-
-<h3 align="center">
-Data & Business Intelligence Analyst
-</h3>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anubhavvvvvvvv&style=flat-square&color=38BDF8" />
-
-<img src="https://img.shields.io/github/followers/anubhavvvvvvvv?style=flat-square&color=8B5CF6" />
-
-<img src="https://img.shields.io/github/stars/anubhavvvvvvvv?style=flat-square&color=3B82F6" />
-
+<b>Transforming business data into meaningful insights through analytics, dashboards and storytelling.</b>
 </p>
 
 <br>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anubhavvvvvvvv&label=Profile%20Views&style=for-the-badge&color=0ea5e9">
+
+<img src="https://img.shields.io/github/followers/anubhavvvvvvvv?style=for-the-badge&label=Followers&color=8B5CF6">
+
+<img src="https://img.shields.io/github/stars/anubhavvvvvvvv?style=for-the-badge&label=Stars&color=2563EB">
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/anubhavvvvvvvv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/anubhav-chauhan-283052266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://anubhav-chauhan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="mailto:anubhav.chauhan.ug23@nsut.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/aaanubhavv/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 📊 Data Analyst Snapshot
+
+| 🎓 Education                                                                   | 💼 Focus                                                               | 🎯 Career Goal                                                 |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **B.Tech (Mathematics & Computing)**<br>Netaji Subhas University of Technology | SQL • Python • Tableau • Dashboard Development • Business Intelligence | Data Analyst • Business Intelligence Analyst • Product Analyst |
+
+---
 
 ## 📌 About Me
 
